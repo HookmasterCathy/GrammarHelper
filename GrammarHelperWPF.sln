@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grammer Helper WPF", "Grammer Helper WPF\Grammer Helper WPF.csproj", "{BCD4C0E7-7E79-4DBA-A967-79B7EA7A437F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCD4C0E7-7E79-4DBA-A967-79B7EA7A437F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD4C0E7-7E79-4DBA-A967-79B7EA7A437F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD4C0E7-7E79-4DBA-A967-79B7EA7A437F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD4C0E7-7E79-4DBA-A967-79B7EA7A437F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {273EF6E9-DBB6-44BD-AE60-CBA9CEF7F1C8}
+	EndGlobalSection
+EndGlobal
