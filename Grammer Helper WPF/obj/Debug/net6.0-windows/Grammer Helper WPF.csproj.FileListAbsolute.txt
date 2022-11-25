@@ -1,0 +1,21 @@
+C:\Users\dansb\OneDrive\Documents\StuffMadeInVisualStudio\Grammer Helper WPF\Grammer Helper WPF\bin\Debug\net6.0-windows\Grammer Helper WPF.exe
+C:\Users\dansb\OneDrive\Documents\StuffMadeInVisualStudio\Grammer Helper WPF\Grammer Helper WPF\bin\Debug\net6.0-windows\Grammer Helper WPF.deps.json
+C:\Users\dansb\OneDrive\Documents\StuffMadeInVisualStudio\Grammer Helper WPF\Grammer Helper WPF\bin\Debug\net6.0-windows\Grammer Helper WPF.runtimeconfig.json
+C:\Users\dansb\OneDrive\Documents\StuffMadeInVisualStudio\Grammer Helper WPF\Grammer Helper WPF\bin\Debug\net6.0-windows\Grammer Helper WPF.dll
+C:\Users\dansb\OneDrive\Documents\StuffMadeInVisualStudio\Grammer Helper WPF\Grammer Helper WPF\bin\Debug\net6.0-windows\Grammer Helper WPF.pdb
+C:\Users\dansb\OneDrive\Documents\StuffMadeInVisualStudio\Grammer Helper WPF\Grammer Helper WPF\obj\Debug\net6.0-windows\Grammer Helper WPF.csproj.AssemblyReference.cache
+C:\Users\dansb\OneDrive\Documents\StuffMadeInVisualStudio\Grammer Helper WPF\Grammer Helper WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\dansb\OneDrive\Documents\StuffMadeInVisualStudio\Grammer Helper WPF\Grammer Helper WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\dansb\OneDrive\Documents\StuffMadeInVisualStudio\Grammer Helper WPF\Grammer Helper WPF\obj\Debug\net6.0-windows\Grammer Helper WPF_MarkupCompile.cache
+C:\Users\dansb\OneDrive\Documents\StuffMadeInVisualStudio\Grammer Helper WPF\Grammer Helper WPF\obj\Debug\net6.0-windows\Grammer Helper WPF_MarkupCompile.lref
+C:\Users\dansb\OneDrive\Documents\StuffMadeInVisualStudio\Grammer Helper WPF\Grammer Helper WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\dansb\OneDrive\Documents\StuffMadeInVisualStudio\Grammer Helper WPF\Grammer Helper WPF\obj\Debug\net6.0-windows\Grammer Helper WPF.g.resources
+C:\Users\dansb\OneDrive\Documents\StuffMadeInVisualStudio\Grammer Helper WPF\Grammer Helper WPF\obj\Debug\net6.0-windows\Grammer Helper WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dansb\OneDrive\Documents\StuffMadeInVisualStudio\Grammer Helper WPF\Grammer Helper WPF\obj\Debug\net6.0-windows\Grammer Helper WPF.AssemblyInfoInputs.cache
+C:\Users\dansb\OneDrive\Documents\StuffMadeInVisualStudio\Grammer Helper WPF\Grammer Helper WPF\obj\Debug\net6.0-windows\Grammer Helper WPF.AssemblyInfo.cs
+C:\Users\dansb\OneDrive\Documents\StuffMadeInVisualStudio\Grammer Helper WPF\Grammer Helper WPF\obj\Debug\net6.0-windows\Grammer Helper WPF.csproj.CoreCompileInputs.cache
+C:\Users\dansb\OneDrive\Documents\StuffMadeInVisualStudio\Grammer Helper WPF\Grammer Helper WPF\obj\Debug\net6.0-windows\Grammer Helper WPF.dll
+C:\Users\dansb\OneDrive\Documents\StuffMadeInVisualStudio\Grammer Helper WPF\Grammer Helper WPF\obj\Debug\net6.0-windows\refint\Grammer Helper WPF.dll
+C:\Users\dansb\OneDrive\Documents\StuffMadeInVisualStudio\Grammer Helper WPF\Grammer Helper WPF\obj\Debug\net6.0-windows\Grammer Helper WPF.pdb
+C:\Users\dansb\OneDrive\Documents\StuffMadeInVisualStudio\Grammer Helper WPF\Grammer Helper WPF\obj\Debug\net6.0-windows\Grammer Helper WPF.genruntimeconfig.cache
+C:\Users\dansb\OneDrive\Documents\StuffMadeInVisualStudio\Grammer Helper WPF\Grammer Helper WPF\obj\Debug\net6.0-windows\ref\Grammer Helper WPF.dll

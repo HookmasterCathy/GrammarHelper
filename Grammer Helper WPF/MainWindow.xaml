@@ -1,0 +1,43 @@
+﻿<Window x:Class="Grammer_Helper_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Grammer_Helper_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" FontSize="20">
+    <Grid>
+        <Button Content="Get a Definition"
+                x:Name="DefButton"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Margin="20"
+                Click="DefButton_Click"></Button>
+        <TextBox x:Name="Input" HorizontalAlignment="Center" Margin="0,35,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.488,-2.265"/>
+        <Button Content="Type in a Word then click me."
+                HorizontalAlignment="Left"
+                x:Name="ConfirmButton" Opacity="1" Visibility="Hidden"
+                Click="ConfirmButton_Click"></Button>
+        <TextBox HorizontalAlignment="Center" Margin="0,188,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="486"
+                 x:Name="Output" Visibility="Hidden" Height="148"></TextBox>
+        <Button Content="Get Subject and Predicate" 
+              HorizontalAlignment="Left" Margin="20,84,0,294" Width="243" 
+                x:Name="SubPredButton"
+                Click="SubPredButton_Click"
+                ></Button>
+        <Button x:Name="TypeBut" Visibility="Hidden"></Button>
+        <Button Content="Get Part Of Grammar"
+                x:Name="PartOfGramBtn"
+                Click="PartOfGramBtn_Click"
+                HorizontalAlignment="Left" Margin="20,149,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="38" Width="226">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.394"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+    </Grid>
+</Window>
