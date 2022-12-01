@@ -232,4 +232,9 @@ namespace Grammer_Helper_WPF
             PartOfGramBtn.Visibility = Visibility.Hidden;
         }
     }
+    //hope this helps
+    public class Isaclass
+    {
+        public string oops = "sorry for the trouble";
+    }
 }
