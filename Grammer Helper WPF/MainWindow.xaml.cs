@@ -195,8 +195,8 @@ namespace Grammer_Helper_WPF
         public static string GetSubPred(string sentence)
         {
             string Answer = "";
-            string Subject = "";
-            String Predicate = "";
+            string Subject = "UNKnOWN";
+            String Predicate = "UNKnOWN";
             bool foundSub = false;
             bool foundPred = false;
             string[] WordList = BreakDown(sentence);
@@ -215,7 +215,7 @@ namespace Grammer_Helper_WPF
                 }
 
             }
-            Answer = "The Subject is " + Subject + " and the Predicate is " + Predicate + ", does that help?";
+            Answer = IsaClass.oopsie("Here, ") + "the Subject is " + Subject + " and the Predicate is " + Predicate + ", does that help?";
 
             return Answer;
         }
@@ -233,8 +233,14 @@ namespace Grammer_Helper_WPF
         }
     }
     //hope this helps
-    public class Isaclass
+   public class IsaClass
     {
-        public string oops = "sorry for the trouble";
+        // this is used only at the end of the getsuppred method abovew
+        public static string oopsie(string oops = "")
+        {
+            return oops;
+        }
+        
     }
+    
 }
